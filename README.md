@@ -16,13 +16,13 @@ Uses:<br />
      timing<br />
   * -datetime<br />
      tell the time/date<br />
-  *-urllib.request<br />
+  * -urllib.request<br />
      connecting to the internet<br />
-  *-bs4<br />
+  * -bs4<br />
      parsing<br />
-  *-subprocess<br />
+  * -subprocess<br />
      accessing command line<br />
-  *-re<br />
+  * -re<br />
      "advanced" string formatting<br />
     
 Is able to :<br />
