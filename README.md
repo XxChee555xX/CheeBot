@@ -23,7 +23,9 @@ Uses:<br />
   * -subprocess<br />
      accessing command line<br />
   * -re<br />
-     "advanced" string formatting<br />
+     "advanced" string formatting<br />    
+  * -voice_recognition<br />
+     "voice recognition<br />
     
 Is able to :<br />
   * Take Inputs to:<br />
